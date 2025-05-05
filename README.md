@@ -48,14 +48,18 @@
 
 ## LEGAL DISCLAIMER
 
-**Universe is a fan-made, original project.** It does not provide support, guides, or tools for modifying, reverse engineering, or redistributing copyrighted games.  
-We do **not support piracy**, and we do **not condone the use of pirated game copies** — this is illegal and against our values.
+**Universe is a standalone leaderboard database and social system.**  
+it is not a game, game mod, or patch — it does not contain or distribute any copyrighted content.
 
-**This leaderboard system is meant for legitimate, original content or community-created rhythm games.**
+**universe can be used with community-made projects**, including mods or fan-created servers, but it does not create or host these mods.  
+all mods are created and used at the user's own discretion. universe only provides a way to connect and compare data like scores.
 
-While Universe can connect to fan-made servers, it cannot offer advanced instructions or tutorials for how to connect commercial games to this system — especially those under copyright protection.
+**we do not support or promote piracy or illegal game copies.**  
+if you are using universe with any game, make sure you legally own it. pirated content is illegal and not supported by this project.
 
-Please use this project responsibly and within the boundaries of the law.  
+**universe cannot provide detailed modding instructions** due to copyright concerns and does not distribute mod files of any kind.
+
+this project is not affiliated with, endorsed by, or connected to ubisoft, nintendo, or any related companies. 
 If you’re unsure whether something is okay, it’s safest not to do it.
 
 ---
