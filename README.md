@@ -10,7 +10,7 @@
 
 - Global leaderboard tracking for custom servers
 - Open API for sending and receiving scores
-- Social system with profiles, friends, and top scores (**Universe Connect**)
+- Social system with profiles, friends, and top scores (**Universe Network**)
 - Privacy-friendly and legally compliant
 - Fully open-source and community-driven
 
@@ -20,7 +20,7 @@
 
 - Players can host or join community-created rhythm servers.
 - Each server connects to **Universe**, the shared database of scores.
-- The **Universe Connect** layer adds a social touch, letting users view rankings, friend players, and celebrate milestones.
+- The **Universe Network** layer adds a social touch, letting users view rankings, friend players, and celebrate milestones.
 
 ---
 
